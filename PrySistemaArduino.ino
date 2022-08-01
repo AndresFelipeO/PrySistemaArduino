@@ -7,7 +7,7 @@
   * Maquina de estados que valida una contraseña y te da acceso a las configuraciones o a las tareas asincronicas
   *
   * @section bibliotecas Bibliotecas
-  * - PryMenuArduino (https://github.com/XAndresXx/PrySistemaArduino.git)
+  * - PrySistemaArduino (https://github.com/AndresFelipeO/PrySistemaArduino.git)
   * - Interactúa con la IMU integrada.
   *
   * @notas de sección Notas
