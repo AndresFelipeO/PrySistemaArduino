@@ -18,7 +18,7 @@
 #define BUZZER_PASIVO 11    // buzzer pasivo en pin 8
 
 // Types
-// Global Vectores
+// Global Vectores Melodia molinos de viento autor mago de oz
 int melodia[] = {   // array con las notas de la melodia
   G4,G4,G4,G4,G4,G4,A4,G4,FS4,G4,G4,FS4,E4,G4,G4,G4,G4,G4,G4,A4,G4,FS4,G4,G4,FS4,D4,//26
   FS4,FS4,FS4,FS4,FS4,FS4,G4,FS4,FS4,E4,FS4,G4,C4,C4,C4,E4,G4,D4,D4,D4,FS4,A4,//22
@@ -27,6 +27,7 @@ int melodia[] = {   // array con las notas de la melodia
   B4,G4,B4,G4,B4,G4,B4,C5,D5,A4,FS4,G4,A4,B4,G4,A4,B4,//17
     B4,G4,B4,G4,B4,G4,B4,C5,D5,A4,FS4,G4,A4,B4,G4,A4,B4//17
 };
+//duracion de las notas de la melodia
 int duraciones[] = {    // array con la duracion de cada nota
   8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8,8,
   8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,
